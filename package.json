@@ -1,0 +1,22 @@
+{
+  "name": "eriktest",
+  "version": "1.0.0",
+  "description": "Testing tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NordikE/ErikTest.git"
+  },
+  "keywords": [
+    "Tailwind"
+  ],
+  "author": "Erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NordikE/ErikTest/issues"
+  },
+  "homepage": "https://github.com/NordikE/ErikTest#readme"
+}
